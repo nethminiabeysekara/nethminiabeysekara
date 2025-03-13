@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing my BSc Computer Science degree at IIT<br>👯 I’m looking to collaborate on web development projects, QA testing, and app development🤝 I’m looking for help with<br>🌱 I’m currently learning API testing using Postman<br>📫 You can reach me through my Linkedin www.linkedin.com/in/gayathri-abeysekara<br>
+🔭 I’m currently doing my BSc Computer Science degree at IIT<br>👯 I’m looking to collaborate on web development projects, QA testing, and app development<br>🌱 I’m currently learning API testing using Postman<br>📫 You can reach me through my Linkedin www.linkedin.com/in/gayathri-abeysekara<br>
 
 
 ## 🌐 Socials:
