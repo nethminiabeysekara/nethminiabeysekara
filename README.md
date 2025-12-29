@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing my BSc Computer Science degree at IIT<br> 💻 Currently working as a QA intern at a Software company <br>📫 You can reach me through my Linkedin www.linkedin.com/in/gayathri-abeysekara<br>
+🔭 I’m currently doing my BSc Computer Science degree at IIT<br> 💻 Currently working as a QA intern at a Software company <br>📫 You can reach me through my Linkedin [www.linkedin.com/in/gayathri-abeysekara](https://www.linkedin.com/in/gayathri-abeysekara-/)<br>
 
 # 💻 Tech Stack:
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
